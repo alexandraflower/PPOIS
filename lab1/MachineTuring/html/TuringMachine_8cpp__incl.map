@@ -1,0 +1,23 @@
+<map id="TuringMachine.cpp" name="TuringMachine.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,262,33"/>
+<area shape="rect" id="Node000002" href="$TuringMachine_8h.html" title="Класс исполнителя машины Тьюринга." alt="" coords="128,81,255,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,31,194,66,189,65,190,36"/>
+<area shape="rect" id="Node000003" href="$Tape_8h.html" title="Описание структуры ленты машины Тьюринга и перечисления направлений." alt="" coords="238,232,302,260"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="217,31,247,51,270,80,281,115,285,153,279,218,274,216,280,153,276,116,265,82,243,55,218,36"/>
+<area shape="rect" id="Node000006" href="$Program_8h.html" title="Структура элементарного действия и класс таблицы правил программы." alt="" coords="66,157,154,184"/>
+<area shape="poly" id="edge13_Node000001_Node000006" title=" " alt="" coords="164,36,140,55,118,82,109,112,109,142,103,141,104,111,113,80,136,51,167,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,107,259,218,253,218,197,111"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="175,111,137,148,134,144,178,107"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="155,232,214,260"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="193,107,188,217,183,216,189,111"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,308,123,336"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,260,132,304,130,299,235,260"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="169,308,219,336"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="259,260,220,299,217,295,254,262"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="139,182,230,224,225,227,138,188"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="69,187,38,206,24,218,12,233,9,251,16,268,30,284,49,298,44,301,26,287,11,270,3,251,8,231,20,215,35,201,71,183"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="114,182,127,219,146,259,173,297,168,296,141,261,122,221,113,188"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="124,182,163,221,158,222,123,188"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="22,232,81,260"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="98,187,73,222,69,219,101,183"/>
+</map>

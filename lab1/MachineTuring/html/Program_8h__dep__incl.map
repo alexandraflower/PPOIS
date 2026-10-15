@@ -1,0 +1,16 @@
+<map id="Program.h" name="Program.h">
+<area shape="rect" id="Node000001" title="Структура элементарного действия и класс таблицы правил программы." alt="" coords="153,5,241,33"/>
+<area shape="rect" id="Node000002" href="$Program_8cpp.html" title=" " alt="" coords="5,81,109,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,43,83,83,80,78,160,38"/>
+<area shape="rect" id="Node000003" href="$TuringMachine_8cpp.html" title=" " alt="" coords="80,157,223,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,46,181,82,158,157,153,155,176,80,187,50"/>
+<area shape="rect" id="Node000004" href="$TuringMachine_8h.html" title="Класс исполнителя машины Тьюринга." alt="" coords="235,81,362,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,40,283,80,278,81,227,45"/>
+<area shape="rect" id="Node000005" href="$MachineTuring_2main_8cpp.html" title=" " alt="" coords="250,157,331,184"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="202,46,211,78,225,107,247,134,273,157,268,156,243,137,220,110,206,79,200,51"/>
+<area shape="rect" id="Node000006" href="$MachineTuring_2tests_8cpp.html" title=" " alt="" coords="357,157,437,184"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="256,24,288,31,320,42,350,57,376,79,389,98,396,119,400,158,395,155,390,120,384,100,372,83,347,62,318,46,286,36,257,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="261,115,179,159,177,154,256,116"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="297,122,294,158,290,155,293,126"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="329,116,382,157,377,156,327,121"/>
+</map>

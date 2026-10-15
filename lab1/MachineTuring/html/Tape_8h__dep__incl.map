@@ -1,0 +1,24 @@
+<map id="Tape.h" name="Tape.h">
+<area shape="rect" id="Node000001" title="Описание структуры ленты машины Тьюринга и перечисления направлений." alt="" coords="312,5,375,33"/>
+<area shape="rect" id="Node000002" href="$Program_8h.html" title="Структура элементарного действия и класс таблицы правил программы." alt="" coords="230,81,318,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,43,288,83,284,79,318,46"/>
+<area shape="rect" id="Node000004" href="$TuringMachine_8cpp.html" title=" " alt="" coords="5,232,148,260"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="294,33,244,53,217,66,192,83,154,120,123,163,84,233,80,230,118,160,150,117,188,79,214,62,242,48,299,30"/>
+<area shape="rect" id="Node000005" href="$TuringMachine_8h.html" title="Класс исполнителя машины Тьюринга." alt="" coords="336,157,463,184"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="355,45,397,157,392,156,352,50"/>
+<area shape="rect" id="Node000006" href="$MachineTuring_2main_8cpp.html" title=" " alt="" coords="460,232,541,260"/>
+<area shape="poly" id="edge13_Node000001_Node000006" title=" " alt="" coords="383,38,415,59,449,85,480,118,504,156,510,176,511,197,506,234,502,230,506,197,505,177,499,158,476,121,446,89,412,63,382,43"/>
+<area shape="rect" id="Node000007" href="$MachineTuring_2tests_8cpp.html" title=" " alt="" coords="172,232,253,260"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="295,35,257,55,220,83,199,107,187,129,183,153,187,184,196,209,207,233,202,231,191,211,182,185,178,153,182,127,195,104,216,79,254,50,299,32"/>
+<area shape="rect" id="Node000008" href="$Tape_8cpp.html" title=" " alt="" coords="588,81,666,109"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="390,30,590,82,585,84,390,35"/>
+<area shape="rect" id="Node000003" href="$Program_8cpp.html" title=" " alt="" coords="208,157,311,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,122,264,158,260,155,266,126"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,116,186,159,93,234,90,230,183,155,239,119"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="309,114,380,156,374,156,308,119"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="333,97,370,103,408,113,445,130,477,155,490,173,498,194,503,234,498,231,493,196,485,176,473,159,442,135,406,118,369,108,334,102"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="235,116,214,136,198,158,193,177,195,197,208,233,203,231,190,198,188,176,193,156,210,133,231,119"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="327,191,135,234,134,229,326,186"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="430,191,485,232,480,231,429,196"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="354,190,246,234,245,229,349,191"/>
+</map>
