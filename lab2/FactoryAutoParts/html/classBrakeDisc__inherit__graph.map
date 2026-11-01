@@ -1,0 +1,5 @@
+<map id="BrakeDisc" name="BrakeDisc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,92,109"/>
+<area shape="rect" id="Node000002" href="$classAutoPart.html" title=" " alt="" coords="10,5,87,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,47,51,81,46,80,47,51"/>
+</map>

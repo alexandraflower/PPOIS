@@ -1,0 +1,27 @@
+<map id="PlantException" name="PlantException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,265,310,293"/>
+<area shape="rect" id="Node000003" href="$classAssemblyMismatchException.html" title=" " alt="" coords="372,5,586,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,249,265,204,284,148,314,92,333,66,356,44,380,32,376,35,360,48,337,70,318,95,289,150,270,205,259,251"/>
+<area shape="rect" id="Node000004" href="$classDefectiveBatchException.html" title=" " alt="" coords="386,57,572,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,249,272,214,292,172,320,131,356,96,388,81,384,85,360,100,325,134,297,175,277,216,263,252"/>
+<area shape="rect" id="Node000005" href="$classMachineOverheatException.html" title=" " alt="" coords="379,109,579,137"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="265,250,302,197,327,170,357,148,386,136,382,139,359,152,331,174,306,201,269,253"/>
+<area shape="rect" id="Node000006" href="$classMaterialShortageException.html" title=" " alt="" coords="380,161,578,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="277,253,313,225,357,199,395,188,390,191,359,204,316,229,281,257"/>
+<area shape="rect" id="Node000007" href="$classOrderDeadlineExceededException.html" title=" " alt="" coords="358,213,600,241"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="324,259,357,251,414,240,410,243,359,256,326,264"/>
+<area shape="rect" id="Node000008" href="$classSafetyShieldOpenException.html" title=" " alt="" coords="378,265,580,293"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="325,277,380,278,375,280,326,282"/>
+<area shape="rect" id="Node000009" href="$classShiftNotStaffedException.html" title=" " alt="" coords="388,317,571,345"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="325,294,359,302,414,316,409,317,357,307,326,299"/>
+<area shape="rect" id="Node000010" href="$classStorageCellFullException.html" title=" " alt="" coords="388,369,571,397"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="279,301,316,329,359,354,395,368,390,369,357,359,313,334,279,306"/>
+<area shape="rect" id="Node000011" href="$classToleranceViolationException.html" title=" " alt="" coords="376,421,582,449"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="268,304,306,358,331,384,359,406,386,421,381,421,357,411,327,388,302,361,266,309"/>
+<area shape="rect" id="Node000012" href="$classToolWearLimitException.html" title=" " alt="" coords="390,473,568,501"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="262,305,277,342,297,384,325,424,360,458,393,477,388,476,356,463,320,428,292,386,272,345,260,310"/>
+<area shape="rect" id="Node000013" href="$classUnauthorizedOperationException.html" title=" " alt="" coords="361,525,597,553"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="258,306,270,353,289,408,318,464,337,489,360,510,381,525,376,524,356,515,333,492,314,467,284,410,265,354,256,311"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,265,144,293"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,277,193,278,189,281,160,282"/>
+</map>

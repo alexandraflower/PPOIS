@@ -1,0 +1,11 @@
+<map id="AutoPart" name="AutoPart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,5,271,33"/>
+<area shape="rect" id="Node000002" href="$classBrakeDisc.html" title=" " alt="" coords="5,81,92,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,42,82,83,80,78,184,37"/>
+<area shape="rect" id="Node000003" href="$classCarHeadlight.html" title=" " alt="" coords="115,81,222,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,44,181,83,178,78,209,46"/>
+<area shape="rect" id="Node000004" href="$classEnginePiston.html" title=" " alt="" coords="245,81,350,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,42,289,81,284,80,253,47"/>
+<area shape="rect" id="Node000005" href="$classTransmissionGear.html" title=" " alt="" coords="374,81,512,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="285,36,408,80,403,81,284,41"/>
+</map>

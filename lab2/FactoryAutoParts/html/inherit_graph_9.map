@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classEmployee.html" title=" " alt="" coords="5,109,92,137"/>
+<area shape="rect" id="Node000001" href="$classMachineOperator.html" title=" " alt="" coords="142,5,276,33"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="72,97,102,69,138,44,166,32,163,35,141,48,106,74,76,100"/>
+<area shape="rect" id="Node000002" href="$classPlantEngineer.html" title=" " alt="" coords="153,57,264,85"/>
+<area shape="poly" id="edge6_Node000000_Node000002" title=" " alt="" coords="105,102,166,84,162,87,107,107"/>
+<area shape="rect" id="Node000003" href="$classQualityInspector.html" title=" " alt="" coords="145,109,273,137"/>
+<area shape="poly" id="edge7_Node000000_Node000003" title=" " alt="" coords="107,121,147,122,142,125,108,126"/>
+<area shape="rect" id="Node000004" href="$classShiftSupervisor.html" title=" " alt="" coords="149,161,268,189"/>
+<area shape="poly" id="edge8_Node000000_Node000004" title=" " alt="" coords="106,139,166,160,162,162,106,144"/>
+<area shape="rect" id="Node000005" href="$classWarehouseWorker.html" title=" " alt="" coords="140,213,278,241"/>
+<area shape="poly" id="edge9_Node000000_Node000005" title=" " alt="" coords="75,145,106,173,141,198,167,213,162,213,138,203,102,177,73,151"/>
+</map>
